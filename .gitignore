@@ -17,6 +17,9 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.firebaserc
+.firbase.json
+.firestroe.indexes.json
 
 npm-debug.log*
 yarn-debug.log*
