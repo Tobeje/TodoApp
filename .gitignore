@@ -17,9 +17,12 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.firebaserc
-.firbase.json
-.firestroe.indexes.json
+
+.firebase*
+firebase*
+
+# web
+src/api/firebase.jsx
 
 npm-debug.log*
 yarn-debug.log*
